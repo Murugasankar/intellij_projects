@@ -6,7 +6,7 @@ class fulfillment {
             println "Hello, Groovy!"
 
             // Variables
-            def name = "Murugasankar"
+            def name = "sankar"
             def age = 28
 
             println "Name: $name"
