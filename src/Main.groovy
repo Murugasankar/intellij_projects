@@ -1,3 +1,3 @@
 static void main(String[] args) {
-  println "Hello hi!"
+  println "Hello hello!"
 }
